@@ -11,7 +11,10 @@
 반면 시작 또는 끝 지점 추가,삭제,추출 O(1)에 가능
 
 __Array와 Trade Off 관계__ (출처 : 생활코딩)
+
+
 ![출처 생활코딩](https://images.velog.io/images/kanamycine/post/30e2a92b-6099-4e60-a853-769cf748d80e/image.png)
+
 
 
 
